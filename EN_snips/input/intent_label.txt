@@ -1,0 +1,1 @@
+/Users/xiangyangni/NLP_DATA/NLU_data/snips/intent_label.txt
