@@ -1,1 +1,8 @@
-/Users/xiangyangni/NLP_DATA/NLU_data/snips/intent_label.txt
+UNK
+AddToPlaylist
+BookRestaurant
+GetWeather
+PlayMusic
+RateBook
+SearchCreativeWork
+SearchScreeningEvent
